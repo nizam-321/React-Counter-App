@@ -2,7 +2,7 @@
 
 ## 🔗 Live Demo
 
-👉 [Click here to see it live](https://nizam-321.github.io/React-Counter-App/)
+👉 [Click here to see it live]( http://localhost:3000)
 
 ## Overview
 This is a basic **React Counter App** built using **React.js**. The app allows users to increase (+), decrease (-), and reset the counter. The counter updates in real-time based on user interaction. This is a great beginner project to understand **React hooks** and **state management**.
